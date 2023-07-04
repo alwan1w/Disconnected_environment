@@ -1,0 +1,14 @@
+C:\Users\D E L L\OneDrive\Kuliah\sms 4\pabd\DisconnectedEnvironment\DisconnectedEnvironment\bin\Debug\DisconnectedEnvironment.exe.config
+C:\Users\D E L L\OneDrive\Kuliah\sms 4\pabd\DisconnectedEnvironment\DisconnectedEnvironment\bin\Debug\DisconnectedEnvironment.exe
+C:\Users\D E L L\OneDrive\Kuliah\sms 4\pabd\DisconnectedEnvironment\DisconnectedEnvironment\bin\Debug\DisconnectedEnvironment.pdb
+C:\Users\D E L L\OneDrive\Kuliah\sms 4\pabd\DisconnectedEnvironment\DisconnectedEnvironment\obj\Debug\DisconnectedEnvironment.csproj.AssemblyReference.cache
+C:\Users\D E L L\OneDrive\Kuliah\sms 4\pabd\DisconnectedEnvironment\DisconnectedEnvironment\obj\Debug\DisconnectedEnvironment.csproj.SuggestedBindingRedirects.cache
+C:\Users\D E L L\OneDrive\Kuliah\sms 4\pabd\DisconnectedEnvironment\DisconnectedEnvironment\obj\Debug\DisconnectedEnvironment.Form1.resources
+C:\Users\D E L L\OneDrive\Kuliah\sms 4\pabd\DisconnectedEnvironment\DisconnectedEnvironment\obj\Debug\DisconnectedEnvironment.Form2.resources
+C:\Users\D E L L\OneDrive\Kuliah\sms 4\pabd\DisconnectedEnvironment\DisconnectedEnvironment\obj\Debug\DisconnectedEnvironment.Form4.resources
+C:\Users\D E L L\OneDrive\Kuliah\sms 4\pabd\DisconnectedEnvironment\DisconnectedEnvironment\obj\Debug\DisconnectedEnvironment.Properties.Resources.resources
+C:\Users\D E L L\OneDrive\Kuliah\sms 4\pabd\DisconnectedEnvironment\DisconnectedEnvironment\obj\Debug\DisconnectedEnvironment.csproj.GenerateResource.cache
+C:\Users\D E L L\OneDrive\Kuliah\sms 4\pabd\DisconnectedEnvironment\DisconnectedEnvironment\obj\Debug\DisconnectedEnvironment.csproj.CoreCompileInputs.cache
+C:\Users\D E L L\OneDrive\Kuliah\sms 4\pabd\DisconnectedEnvironment\DisconnectedEnvironment\obj\Debug\DisconnectedEnvironment.exe
+C:\Users\D E L L\OneDrive\Kuliah\sms 4\pabd\DisconnectedEnvironment\DisconnectedEnvironment\obj\Debug\DisconnectedEnvironment.pdb
+C:\Users\D E L L\OneDrive\Kuliah\sms 4\pabd\DisconnectedEnvironment\DisconnectedEnvironment\obj\Debug\DisconnectedEnvironment.FormDataMahasiswa.resources
